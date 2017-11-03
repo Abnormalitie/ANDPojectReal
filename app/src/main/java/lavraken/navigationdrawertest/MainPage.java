@@ -101,4 +101,5 @@ public class MainPage extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+    // comment test
 }
