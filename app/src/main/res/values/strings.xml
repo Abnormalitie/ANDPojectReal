@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationdrawerTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="company_Name">Your Place</string>
+    <string name="comp_name1">Your</string>
+    <string name="comp_name2">Place</string>
+    <string name="book_Appointment">BOOK APPOINTMENT</string>
+    <string name="message_Owner">CONTACT US</string>
+    <string name="about_Us">ABOUT US</string>
+    <string name="FAQ">FAQ</string>
+    <string name="description_logo">This is the company logo</string>
+    <string name="settings_button">This is the button for settings</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general">General</string>
+        <string name="book_appointment">Book Appointment</string>
+        <string name="price">Price</string>
+        <string name="procedures">Procedures</string>
+
+    <string name="communicate">Communicate</string>
+        <string name="contact_owner">Contact Owner</string>
+
+    <string name="information">Information</string>
+        <string name="about_us">About Us</string>
+        <string name="faq">FAQ</string>
+</resources>
